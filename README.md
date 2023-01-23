@@ -1,5 +1,6 @@
-# Surface Maps via Adaptive Triangulations
 ![Teaser](img/teaser_repo.png)
+
+# Surface Maps via Adaptive Triangulations
 
 <!--This is a prototype implementation of the paper Surface Map Surface Maps via Adaptive Triangulations [paper link] by [authors].-->
 This is a prototype implementation of Surface Map Surface Maps via Adaptive Triangulations.
@@ -21,6 +22,7 @@ sudo apt install cmake libgl1-mesa-dev mesa-utils libglfw3 libglfw3-dev libxiner
 Make sure to checkout all Git submodules: Clone via `git clone --recursive ...` or run `git submodule update --init --recursive` afterwards.
 Then use the following commands to build the project:
 ```
+cd surface-maps-via-adaptive-triangulations
 mkdir build
 cd build
 cmake ..
@@ -31,8 +33,9 @@ make -j4
 
 The `build` directory should now contain several executable files. Run a file by typing e.g.:
 
-* `./coarse_to_fine` (which reproduces Figure 2 of the paper)
+* `./coarse_to_fine` (which reproduces the results of Figure 2 in the paper)
 
+![Coarse to fine optmization](img/coarse_to_fine_repo.png)
 
 Each executable will produce a number of output meshes and screenshots in the `build/output` directory.
 Alternatively, it is possible to open an interactive viewer by setting `open_viewer = true` in any of the files located in `apps/adaptive_triangulations`.
@@ -47,6 +50,9 @@ Press Escape to close the widget. Some demos will open several widgets in succes
 
 # Authors and Contributors
 [tba]
+
+# Citation
+[...]
 
 # License
 Our source code is released under the MIT License.
