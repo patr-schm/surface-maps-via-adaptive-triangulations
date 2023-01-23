@@ -1,0 +1,33 @@
+[submodule "libs/libigl"]
+	path = libs/libigl
+	url = https://github.com/libigl/libigl.git
+[submodule "libs/OpenMesh"]
+	path = libs/OpenMesh
+	url = https://gitlab.vci.rwth-aachen.de:9000/OpenMesh/OpenMesh.git
+[submodule "libs/typed-geometry"]
+	path = libs/typed-geometry
+	url = https://gitlab.vci.rwth-aachen.de:9000/ptrettner/typed-geometry.git
+[submodule "libs/polymesh"]
+	path = libs/polymesh
+	url = https://gitlab.vci.rwth-aachen.de:9000/ptrettner/polymesh.git
+[submodule "libs/glow"]
+	path = libs/glow
+	url = https://gitlab.vci.rwth-aachen.de:9000/Glow/glow.git
+[submodule "libs/imgui-lean"]
+	path = libs/imgui-lean
+	url = https://gitlab.vci.rwth-aachen.de:9000/ptrettner/imgui-lean.git
+[submodule "libs/glow-extras"]
+	path = libs/glow-extras
+	url = https://gitlab.vci.rwth-aachen.de:9000/Glow/glow-extras.git
+[submodule "libs/glfw"]
+	path = libs/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "libs/eigen-lean"]
+	path = libs/eigen-lean
+	url = https://gitlab.vci.rwth-aachen.de:9000/ptrettner/eigen-lean.git
+[submodule "libs/TinyAD"]
+	path = libs/TinyAD
+	url = https://github.com/patr-schm/TinyAD.git
+[submodule "libs/clean-core"]
+	path = libs/clean-core
+	url = https://github.com/project-arcana/clean-core.git

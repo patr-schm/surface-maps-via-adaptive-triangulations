@@ -1,0 +1,7 @@
+.directory
+*.~
+bin
+build
+apps/nonpublic
+CMakeLists.txt.user*
+apps/adaptive_triangulations/__pycache__
