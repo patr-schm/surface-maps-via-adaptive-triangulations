@@ -19,7 +19,7 @@ On Debian-based systems, the required dependencies can be installed via:
 sudo apt install cmake libgl1-mesa-dev mesa-utils libglfw3 libglfw3-dev libxinerama-dev libxcursor-dev libxi-dev cmake g++
 ```
 
-Make sure to checkout all Git submodules: Clone via `git clone --recursive ...` or run `git submodule update --init --recursive` afterwards.
+Make sure to checkout all git submodules: Clone via `git clone --recursive ...` or run `git submodule update --init --recursive` afterwards.
 Then use the following commands to build the project:
 ```
 cd surface-maps-via-adaptive-triangulations
