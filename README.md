@@ -4,7 +4,7 @@
 <!--This is a prototype implementation of the paper Surface Maps via Adaptive Triangulations [paper link] by [authors].-->
 This is a prototype implementation of Surface Maps via Adaptive Triangulations.
 
-This repository contains:
+The repository contains:
 * The core `SurfaceMaps` library.
 * Example applications that replicate figures from the paper.
 
