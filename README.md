@@ -1,5 +1,4 @@
 ![Teaser](img/teaser_repo.png)
-
 # Surface Maps via Adaptive Triangulations
 
 <!--This is a prototype implementation of the paper Surface Maps via Adaptive Triangulations [paper link] by [authors].-->
