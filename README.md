@@ -10,11 +10,9 @@ The repository contains:
 
 # Build Instructions
 
-This project has been developed and tested on Linux (Debian & Ubuntu) and requires a C++17 compiler.
-
-On Debian-based systems, the required dependencies can be installed via:
+This project has been developed and tested on Linux (Debian & Ubuntu) and requires a C++17 compiler. Install the dependencies via:
 ```
-sudo apt install cmake libgl1-mesa-dev mesa-utils libglfw3 libglfw3-dev libxinerama-dev libxcursor-dev libxi-dev cmake g++
+sudo apt install cmake libgl1-mesa-dev mesa-utils libglfw3 libglfw3-dev libxinerama-dev libxcursor-dev libxi-dev g++
 ```
 
 Clone and build the project using the following commands:
