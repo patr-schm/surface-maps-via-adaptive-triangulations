@@ -42,7 +42,7 @@ Viewer navigation:
 * Double-click to set pivot point
 * Scroll mouse wheel to zoom
 
-Press Escape to close the widget. Some demos will open several widgets in succession.
+Press Escape to close the window. Some demos will open several windows in succession.
 
 # Authors
 * [Patrick Schmidt](https://www.graphics.rwth-aachen.de/person/232/)  
