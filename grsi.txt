@@ -1,0 +1,3 @@
+Title: Surface Maps via Adaptive Triangulations
+Authors: Patrick Schmidt, Dörte Pieper, Leif Kobbelt
+Operating System: Linux (e.g. Ubuntu or Debian)
