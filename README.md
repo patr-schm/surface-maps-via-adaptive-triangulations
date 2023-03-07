@@ -1,7 +1,7 @@
 ![Teaser](img/teaser_repo.png)
 # Surface Maps via Adaptive Triangulations
 
-This is a prototype implementation of the paper [Surface Maps via Adaptive Triangulations](https://graphics.rwth-aachen.de/media/papers/345/surface-maps-via-adaptive-triangulations.pdf) (Eurographics 2023).
+This is a prototype implementation of the paper [Surface Maps via Adaptive Triangulations](https://graphics.rwth-aachen.de/media/papers/345/surface-maps-via-adaptive-triangulations.pdf) (Eurographics 2023) by Patrick Schmidt, Dörte Pieper, and Leif Kobbelt.
 
 The repository contains:
 * The core `SurfaceMaps` library.
