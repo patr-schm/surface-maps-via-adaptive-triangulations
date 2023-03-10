@@ -3,6 +3,10 @@
 
 This is a prototype implementation of the paper [Surface Maps via Adaptive Triangulations](https://graphics.rwth-aachen.de/media/papers/345/surface-maps-via-adaptive-triangulations.pdf) (Eurographics 2023) by Patrick Schmidt, Dörte Pieper, and Leif Kobbelt.
 
+The method computes bijective maps, represented via common triangulations, between two or more genus-0 surfaces.
+Such common triangulations approximate the input surfaces but stay in bijective correspondence to them (via spherical embeddings).
+A discrete-continuous algorithm optimizes the geometric embeddings as well as the connectivity of these triangulations.
+
 The repository contains:
 * The core `SurfaceMaps` library.
 * Example applications that replicate figures from the paper.
